@@ -1,1 +1,1 @@
-I created the employees and the login classes as well as all the variables and methods that are included inside of them
+I created the employees, login, and menu classes as well as all the variables and methods that are included inside of them
