@@ -1,1 +1,2 @@
 Stage 2:
+I created rooms, guests, and sales. 
